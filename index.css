@@ -1,0 +1,11 @@
+#heading{
+    color: aqua;
+    background-color: orange;
+}
+#parent{
+    border: 1px solid red;
+    padding: 20px;
+}
+#child{
+    border: 1px solid blue;
+}
